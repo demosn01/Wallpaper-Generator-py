@@ -1,7 +1,18 @@
 # wallpaper-generator
 
-Generate and save wallpaper images in 4K resolution. Images are generated client-side using the HTML <canvas> element and Javascript.
+Generate and save wallpaper images in 4K resolution. Images are generated and computed using Python.
 
-Saving wallpapers on mobile, and share links courtesy of @sixelasacul.
+## Installing:
 
+`pip install Pillow`
+
+## Running:
+`python3 wallpaper-generator.py`
+
+## Original Code:
+
+Orginal Demo:
 Demo: [https://tanck.nl/wallpaper/](https://tanck.nl/wallpaper/)
+
+Original HTML/Javascript Code by roytanck (Roy Tanck):
+https://github.com/roytanck/wallpaper-generator
